@@ -44,6 +44,7 @@ import com.echo.skygazer.io.HygDatabase;
 import com.echo.skygazer.ui.sky.SkyFragment;
 import java.util.Calendar;
 
+
 public class MainActivity extends AppCompatActivity implements SharedPreferences.OnSharedPreferenceChangeListener{
 
     //Progress Dialog

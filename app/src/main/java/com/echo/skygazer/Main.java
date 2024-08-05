@@ -35,6 +35,10 @@ public class Main {
         }
     }
 
+    /**
+     * Initialize the constellations.
+     *
+     */
     public static void initConstellations()
     {
         if(constellations==null) {
